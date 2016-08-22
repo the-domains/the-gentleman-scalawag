@@ -1,0 +1,14 @@
+name: The Gentleman Scalawag
+layout_spectrum: 0.11943261059085508
+typography_spectrum: 0.15316398568169765
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.48928597481424174
+  lightness: 0.06619563191534339
+  saturation: 0.06318254231575482
+  rhythmicContrast: 0.2184678497630821
